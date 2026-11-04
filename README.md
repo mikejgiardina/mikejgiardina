@@ -1,10 +1,10 @@
 ## Mike Giardina
 
-Emergency nurse — BSN, RN, CEN. Nineteen years in a Level 1 trauma ED, Epic ASAP module clinical lead, ATCN course director.
+Emergency nurse — BSN, RN, CEN. Nineteen years in a Level I trauma ED, Epic ASAP module clinical lead, ATCN course director.
 
 I specify clinical AI systems, direct the agent sessions that implement them, and own whether the result is clinically right. That last part is the actual job.
 
-**Most of the work is written up rather than committed here.** The engineering case studies, the clinical education library, and the interactive clinical cases all live at **[mike-giardina.netlify.app](https://mike-giardina.netlify.app)**.
+**Most of the work is written up rather than committed here.** Write-ups of the AI tooling work, the Trauma Tracker prototype, and an interactive clinical case are at **[mike-giardina.netlify.app](https://mike-giardina.netlify.app)**.
 
 ### Open here
 
